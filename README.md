@@ -1,10 +1,10 @@
 ## Alô! Eu sou o Gabriel Tsujimoto! 👋
 
 - 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev
-- 🌱 Atualmente estou estudando webpacks
+- 🌱 Atualmente estou estudando ReactJS
 - 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento de software
 - 📫 Contato: gabrieltsujimotovicente@outlook.com
-- ⚡ Fun Fact: gamer nas horas vagas 😁
+- ⚡ Fato curioso: gamer assíduo nas horas vagas 😁
 
 <div >
   <a href="https://github.com/GabTVicente">
