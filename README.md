@@ -1,6 +1,6 @@
 ## Alô! Eu sou o Gabriel Tsujimoto! 👋
 
-- 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev
+- 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev e na área de suporte para empresas de publicidade.
 - 🌱 Atualmente estou estudando ReactJS
 - 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento de software
 - 📫 Contato: gabrieltsujimotovicente@outlook.com
