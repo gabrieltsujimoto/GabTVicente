@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev e na área de suporte para empresas de publicidade.
 - 🌱 Atualmente estou estudando ReactJS
-- 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento de software
+- 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento web!
 - 📫 Contato: gabrieltsujimotovicente@outlook.com
 - ⚡ Fato curioso: gamer assíduo nas horas vagas 😁
 
