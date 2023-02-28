@@ -6,7 +6,7 @@
 - 📫 Contato: gabrieltsujimotovicente@outlook.com
 - ⚡ Fato curioso: gamer assíduo nas horas vagas 😁
 
-<div style="display block">
+<div style="display flex">
 	<picture>
 		<source 
 		  srcset="https://github-readme-stats.vercel.app/api?username=gabrieltsujimoto&show_icons=true&theme=material-palenight"
