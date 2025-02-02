@@ -1,12 +1,12 @@
-## Alô! Eu sou o Gabriel Tsujimoto! 👋
+<h2>Alô! Eu sou o Gabriel Tsujimoto! 👋</h2>
 
-- 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev e na área de suporte para empresas de publicidade.
-- 🌱 Atualmente estou estudando React com Typescript.
-- 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento web!
-- 📫 Contato: gabrieltsujimotovicente@outlook.com
-- ⚡ Fato curioso: gamer assíduo nas horas vagas 😁
+ - 🔭 Hoje trabalho em meu desenvolvimento pessoal como dev e na área de suporte para empresas de publicidade.
+ - 🌱 Atualmente estou estudando Flutter.
+ - 👀 Estou a procura de minha primeira oportunidade na área de desenvolvimento web!
+ - 📫 Contato: gabrieltsujimotovicente@outlook.com
+ - ⚡ Fato curioso: gamer assíduo nas horas vagas 😁
 
-<div style="display flex">
+<div style="display flex jusitify-content center align-items center">
 	<picture>
 		<source 
 		  srcset="https://github-readme-stats.vercel.app/api?username=gabrieltsujimoto&show_icons=true&theme=material-palenight"
@@ -25,11 +25,10 @@
 </div>
 </br>
 <div style="display flex justify-content center">
-	<img height=60 width=90 src='https://simpleicons.org/icons/react.svg'>
+	<img height=60 width=90 src='https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg'>
 	<img height=60 width=90 src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
 	<img height=60 width=90 src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg'>
 	<img height=60 width=90 src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg'>
-	<img height=60 width=90 src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg'>
-	<img height=60 width=90 src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg'>
-	<img height=60 width=90 src='https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg'>
+	<img height=60 width=90 src='https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-plain.svg'>
+	<img height=60 width=90 src='https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg'>
 </div>
